@@ -1,6 +1,7 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("HelloWorld");
+        System.out.println("Neue Zeile 4");
         System.out.println("Herzlich Willkommen");
         System.out.println("Hallo Niklas");
         System.out.println("Mahlzeit!");
